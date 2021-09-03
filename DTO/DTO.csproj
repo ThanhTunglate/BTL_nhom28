@@ -73,6 +73,7 @@
     <Compile Include="DTO_KhachHang.cs" />
     <Compile Include="DTO_NCC.cs" />
     <Compile Include="DTO_PhieuNhap.cs" />
+    <Compile Include="DTO_SanPham.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="SqlServerTypes\Loader.cs" />
   </ItemGroup>
