@@ -14,6 +14,6 @@ namespace DTO
         public string HoTe1 { get => HoTe; set => HoTe = value; }
         public string DiaChi1 { get => DiaChi; set => DiaChi = value; }
         public string Sdt1 { get => Sdt; set => Sdt = value; }
-        public string MaNKH1 { get => MaNKH; set => MaNKH = value; }
+        public string Sdt1 { get => Sdt; set => Sdt = value; }
     }
 }
