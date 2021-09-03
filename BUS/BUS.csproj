@@ -70,12 +70,6 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Bus_BanHang.cs" />
-    <Compile Include="Bus_ID.cs" />
-    <Compile Include="BUS_PhieuNhap.cs" />
-    <Compile Include="BUS_NCC.cs" />
-    <Compile Include="BUS_DSSP.cs" />
-    <Compile Include="Bus_SoQuy.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="SqlServerTypes\Loader.cs" />
   </ItemGroup>
